@@ -1,1 +1,1 @@
-# react_typescript_snippets
+# react_code_snippets
